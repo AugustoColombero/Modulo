@@ -19,3 +19,6 @@ Actualmente no está disponible para instalación automática. Puedes clonar el 
 ```bash
 git clone https://github.com/AugustoColombero/Modulo.git
 cd Modulo
+````
+## Requisitos
+Asegurate de tener instaladas las siguientes bibliotecas: numpy, scipy, matplotlib, statsmodels, scikit-learn
