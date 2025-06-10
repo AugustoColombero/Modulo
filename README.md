@@ -3,6 +3,7 @@
 ## Descripción
 
 Módulo de Python con herramientas simples y prácticas para análisis estadístico, estimación de densidades y ajuste de modelos de regresión lineal y logística.
+
 ## Características
 
 - **AnalisisDescriptivo**: Permite realizar análisis descriptivo y estimación de densidades utilizando histogramas y métodos de núcleos.
