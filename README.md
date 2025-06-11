@@ -21,4 +21,4 @@ git clone https://github.com/AugustoColombero/Modulo.git
 cd Modulo
 ````
 ## Requisitos
-Asegurate de tener instaladas las siguientes bibliotecas: numpy, scipy, matplotlib, statsmodels, scikit-learn
+Asegurate de tener instaladas las siguientes bibliotecas: numpy, scipy, matplotlib, statsmodels y scikit-learn
